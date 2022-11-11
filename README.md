@@ -10,4 +10,4 @@ A project that creates a boostrap code for the event section on the page by sele
 Installation is pretty simple. Just download and run it. It will send a request to our depeartment page(bilgisayar.btu.edu.tr) and make the necessary extraction from the incoming content and save the code in the result.txt file.
 
 ## Preapered by
-BlgnrSoftDev and yusufarbc
+<a href= "https://github.com/BlgnrSoftDev">BlgnrSoftDev</a> and <a href= "https://github.com/yusufarbc" >yusufarbc</a>
