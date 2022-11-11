@@ -8,3 +8,6 @@ Kurulumu oldukça basit. Sadece indirip çalıştırın. Bölüm sayfamıza(bilg
 [EN]
 A project that creates a boostrap code for the event section on the page by selecting the event announcements from among the announcements posted on our depeartment page.
 Installation is pretty simple. Just download and run it. It will send a request to our depeartment page(bilgisayar.btu.edu.tr) and make the necessary extraction from the incoming content and save the code in the result.txt file.
+
+Preapering by
+BlgnrSoftDev and yusufarbc
