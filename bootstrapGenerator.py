@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 # scanned website url
 URL = "https://bilgisayar.btu.edu.tr/index.php?page=duyuru"
 # count of scanned event
-COUNT = 30
+COUNT = 25
 
 # disable warnings
 requests.packages.urllib3.disable_warnings()
@@ -71,7 +71,7 @@ def generate_boostrap(info_list):
     <div class="col-sm-6" style="background-color:lavender;"><a href="#"><img alt="" src="{info_list[1]}" style="height:146px; width:220px" /></a></div> 
  
     <div class="col-sm-6" style="background-color:lavender;height:146px;"><br /> 
-    <strong>[{info_list[3]}]</strong>{info_list[0][0:90]}...<a href="{info_list[2]}"><strong><u>Detaylı bilgi</u></strong></a></div> 
+    <strong>[{info_list[3]}]</strong> {info_list[0][0:135]}...<br/><a href="{info_list[2]}"><strong><u>Detaylı bilgi</u></strong></a></div> 
     </div> 
     </div> 
  
