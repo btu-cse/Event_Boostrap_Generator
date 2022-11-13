@@ -2,7 +2,7 @@
 a boostrap code generator for bilgisayar.btu.edu.tr's event case
 
 [TR]
-Bölüm sayfamızda yayınlanan duyurular içerisinden etkinlik duyurularını seçerek sayfadaki etkinlik bölümü için bir boostrap kodu oluşturan bir proje.
+Bölüm sayfamızda yayınlanan duyurular içerisinden etkinlik duyurularını seçerek sayfadaki etkinlik bölümü için boostrap kodu oluşturan bir proje.
 Kurulumu oldukça basit. Sadece indirip çalıştırın. Bölüm sayfamıza(bilgisayar.btu.edu.tr) istek atıp gelen içerikten gerekli ayıklamayı yapıp kodu result.txt dosyasına kaydedecektir.
 
 [EN]
